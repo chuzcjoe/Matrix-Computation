@@ -8,3 +8,7 @@ such as Richardson, Steepest descent, Coordinate descent, Krylov subspace, Power
 All the code is written using Julia language(version == 1.0.0).
 
 .ipynb format is provided here.
+
+There are several great IDEs for you to use when you write Julia code.
+Atom, Jupyter notebook, and JuliaBox.
+My personal preference would be JuliaBox, it is an online platform and we can easily access to it using our Google account.
